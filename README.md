@@ -1,29 +1,30 @@
-## 🚀 Project Setup
+```
+    Task 1: State and Event Handiling
 
-Follow these steps to run the project locally:
+    A Button that increases the count by 1 when clicked.
+    A button the Decreases the count by 1 when clicked.
+    A button the Resets the count to 0
+    Display the count Dynamically on the Screen.
 
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/themdshakibul/Tailwind_and-DaisyUi.git
 ```
 
-### 2️⃣ Go to the project folder
+```
+Task 2: useState and Conditional Rendering
 
-```bash
-cd Tailwind_and-DaisyUi
+Create a "Show/Hide Text" App:
+. A to mandge the visibility of a text massage.
+. A button should toggle Between "Show" and "Hide" Text.
+. A When the text is visible, it should say: "Hello React! Developers"
+. A When hidden, nothing Should be displayed.
+
 ```
 
-### 3️⃣ Install dependencies
-
-```bash
-npm install
 ```
+Task 3: API Data Fetching width useEffect
 
-### 4️⃣ Run the development server
+. Fetch and Display data form the JSONPlaceholder API
+. Display use name Company name and city in a list
+. Show a Loading State While fetching data
+. Show and Error Messge if the API request fails
 
-```bash
-npm run dev
 ```
-
-After running the command, open the local server link shown in the terminal (usually **http://localhost:5173**).
